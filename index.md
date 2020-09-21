@@ -1,5 +1,13 @@
 # My Story
+I was born on warm summer night, in Little Rock, Arkansas.. just kidding. I won't bore you pseudo-literature - I'm an engineer, not a Pulitzer winner.
 
+I graduated from Virginia Commonwealth University with a degree in business, and started working in startups from my first college internship, which was at the now defunct Health Diagnostic Laboratories in Richmond, VA. I knew pretty quickly that startups was where I would spend my career - I started work in the warehouse assembling styrofoam kits to be mailed out to our customers, and somehow, within a few months, was picked out of the line to start working on business development projects, and soon had a cubicle & my first business cards. That focus on meritocracy above all else had me hooked, and startups have been my world ever since.
 # Career Journey: How'd I Get Here?
+After HDL I started work at Fulcrum Collaborations, a banking data center infrastructure management startup - my first real failure. I was hired for a position I was woefully under-skilled for, and though I learned very quickly, the stakes were too high & the time to learn too short. After that I worked in direct sales at Mainstreeet Genome, a startup focused on helping small restaurants compete, then in a leadership position at growthIQ, a real-estate leasing software company. When that company failed, I made a brief jump to venture capital, and my first introduction to operations, and shortly thereafter realized that was not where I wanted to be.
+However, during my time at NextGen Venture Partners I did learn that working working in a well capitalized startup had some serious advantages, so went to work for Atlas Lane, a property management startup. There I grew to manage operations for the entire portfolio of homes - that meant from move-in to move-out my team & I were responsible for everything.
 
-# Goals - Both Short- & Long-Term
+During that time I hit wall, for the first time - 120 hour weeks, stress.. I just couldn't keep it. So I worked at a summer camp for a few months, then dove into starting my first company (and a podcast!). I won't get into too many specifics - suffice it to say, I didn't have the skills I needed to succeed. Hard work will only get you so far. When COVID hit I was in Thailand traveling, and faced with a decision.. what next?
+
+Knowing my lack of ability to code solutions to the problems I faced as a entrepreneur, the location restrictions of the types of jobs I'd so far held, and my disillusionment with outrageous hours & minimal pay led me to think coding was my future. I loved logic problems, I'm a life-long learner, and coding offered me the chance to do a lot of both.
+
+After consulting my network of friends & mentors, I landed at App Academy, where I'm currently training to become a full stack engineer!
